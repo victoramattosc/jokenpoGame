@@ -10,7 +10,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("https://thumbs.gfycat.com/AbandonedNecessaryCapeghostfrog-size_restricted.gif");
+  background-image: url("https://thumbs.gfycat.com/AbandonedNecessaryCapeghostfrog-size_restricted.gif");
 }
 ::selection {
   color: #fff;
